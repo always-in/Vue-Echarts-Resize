@@ -1,4 +1,4 @@
-# echarts-fit
+# Vue-Echarts-Resize
 
 > 几种echarts图表自适应方法比较,万能解决方案第3种，在div上绑定对应onresize方法
 
@@ -15,7 +15,7 @@ npm run dev
 npm run build
 ```
 
-# Vue-Echarts-Resize
+# 几种方法比较【万能方法为第3种】
 
 **1.使用window.onresize**
 
